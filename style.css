@@ -139,28 +139,29 @@
         padding: 15px;
     }
     .product-image2 {
-        width: 100%;
+        width: 99%;
         height: auto;
         padding: 15px;
     }
     .product-image3 {
-        width: 107%;
+        width: 109%;
         height: auto;
         padding: 11px;
-        padding-right: 1.5rem;
+        padding-right: 1.9rem;
        
         
     }
     .product-image4 {
-        width: 126%;
-        height: auto;
-        padding: 10px;
-        padding-right: 1.7rem;
-    }
-    .product-image5 {
-        width: 97%;
+        width: 125.5%;
         height: auto;
         padding: 7px;
+        padding-right: 1.9rem;
+        padding-left: 0.3rem;
+    }
+    .product-image5 {
+        width: 96.5%;
+        height: auto;
+        padding: 11px;
         padding-left: 1rem;
     }
     .product-details {
